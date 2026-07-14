@@ -1,0 +1,17 @@
+[
+  {
+    "id": "doc1",
+    "title": "Activate Your Card",
+    "content": "Customers can activate their new ADIB card using one of the available banking channels, such as the mobile banking application, internet banking, or customer support services. Card activation is required before using the card for purchases, ATM withdrawals, or online transactions. Customers should complete the activation process and keep their PIN confidential to ensure secure usage."
+  },
+  {
+    "id": "doc2",
+    "title": "Meeza Prepaid Cards",
+    "content": "Meeza Prepaid Cards allow customers to make purchases and withdraw cash without linking the card to a traditional bank account. Customers can load funds onto the card and use it within the supported payment network. The card provides a convenient payment solution while helping customers manage their spending."
+  },
+  {
+    "id": "doc3",
+    "title": "Cash Back Cards",
+    "content": "ADIB Cash Back Cards reward customers by returning a percentage of eligible spending as cashback. Cashback benefits depend on the card type and eligible purchase categories. Customers should review the applicable terms and conditions to understand cashback limits, eligibility requirements, and participating merchants."
+  }
+]
